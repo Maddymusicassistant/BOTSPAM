@@ -1,6 +1,6 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=LEGEND-AI&repo=BOTSPAM&theme=lite)
 
-[![LEGENDBOTSPAM](https://graph.org/file/89ed7d3a2bd8aa2c61385.jpg)](https://github.com/LEGEND-AI/BOTSPAM)
+[![LEGENDBOTSPAM](https://graph.org/file/89ed7d3a2bd8aa2c61385.jpg)]()
 
 <h1 align="center">
 <b> 『ẞø†Spâm』 </b>
@@ -27,9 +27,9 @@
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/humara_adda)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/LegendBot_OP)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/zindagi1840)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/LegendBot_AI)
  
 -------
 
